@@ -21,6 +21,7 @@ class ComposerStaticInit9cf4bf3fd1b059432a058c7fb8af51db
     );
 
     public static $classMap = array (
+        'CarOrder\\Car' => __DIR__ . '/../..' . '/src/Car.php',
         'CarOrder\\CarFactory' => __DIR__ . '/../..' . '/src/CarFactory.php',
         'CarOrder\\CarModelR' => __DIR__ . '/../..' . '/src/CarModelR.php',
         'CarOrder\\CarModelS' => __DIR__ . '/../..' . '/src/CarModelS.php',

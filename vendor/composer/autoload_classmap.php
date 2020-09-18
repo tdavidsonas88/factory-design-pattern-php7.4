@@ -6,6 +6,7 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
+    'CarOrder\\Car' => $baseDir . '/src/Car.php',
     'CarOrder\\CarFactory' => $baseDir . '/src/CarFactory.php',
     'CarOrder\\CarModelR' => $baseDir . '/src/CarModelR.php',
     'CarOrder\\CarModelS' => $baseDir . '/src/CarModelS.php',
