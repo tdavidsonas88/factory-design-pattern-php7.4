@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab233790-b00b-4c9e-bc98-31f5d335ed36" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1hgZm75Z57X1nSlpXc9JQGg3HPi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="entry.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/src/entry.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.4" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.entry.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab233790-b00b-4c9e-bc98-31f5d335ed36" name="Default Changelist" comment="" />
+      <created>1600434851570</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600434851570</updated>
+      <workItem from="1600434852654" duration="2903000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="782" y="233" width="412" height="638" key="#com.intellij.ide.util.MemberChooser" timestamp="1600435864308">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="782" y="233" width="412" height="638" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1600435864308" />
+    <state width="1807" height="270" key="GridCell.Tab.0.bottom" timestamp="1600437756204">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="270" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1600437756204" />
+    <state width="1807" height="270" key="GridCell.Tab.0.center" timestamp="1600437756203">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="270" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1600437756203" />
+    <state width="1807" height="270" key="GridCell.Tab.0.left" timestamp="1600437756203">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="270" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1600437756203" />
+    <state width="1807" height="270" key="GridCell.Tab.0.right" timestamp="1600437756203">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="270" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1600437756203" />
+    <state x="740" y="272" width="497" height="561" key="NewPhpClassDialog" timestamp="1600435843612">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="740" y="272" width="497" height="561" key="NewPhpClassDialog/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1600435843612" />
+    <state x="789" y="478" width="399" height="149" key="NewPhpFileDialog" timestamp="1600436143447">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="789" y="478" width="399" height="149" key="NewPhpFileDialog/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1600436143447" />
+  </component>
+</project>
